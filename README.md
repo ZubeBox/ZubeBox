@@ -4,14 +4,10 @@ Hi! I am `@ZubeBox`.
 
 #### My hobbies:
 
-Arithmetic,
-
-Science,
-
-Geometry,
-
-Programming,
-
-Engineering,
-
-Software Developer.
+Arithmetic,  
+Science,  
+Geometry,  
+Programming,  
+Engineering,  
+Software Developer,  
+Web Development.
