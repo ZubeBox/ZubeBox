@@ -1,6 +1,6 @@
 # @ZubeBox
 
-![alt text](https://github.com/ZubeBox/ZubeBox/blob/About-Me/MiniProfileImage.png?raw=true)
+![photo](https://github.com/ZubeBox/ZubeBox/blob/About-Me/MiniProfileImage.png?raw=true)
 
 Hi! I am `@ZubeBox`.
 
